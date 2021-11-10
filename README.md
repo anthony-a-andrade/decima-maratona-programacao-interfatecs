@@ -1,9 +1,9 @@
-﻿# 10ª Maratona de Programação Interfatecs
+# 10ª Maratona de Programação Interfatecs
 Repositório dos códigos desenvolvidos para a 10ª edição da Maratona de Programação Interfatecs.
 
 Todos os problemas foram resolvidos em Python, sendo feita após a maratora uma otimização dos mesmos em C/C++.
 
-Códigos desenvolvidos por Anthony Almeida Andrade e Giulia Ventura Ratti.
+Códigos desenvolvidos por Anthony Almeida Andrade e Giulia Ventura Ratti (@VenturaGiu).
 
 # Problemas Resolvidos
  - **Fluxonator ([B](https://github.com/chocothony/decima-maratona-programacao-interfatecs/blob/main/PDFs/B.pdf))**\
